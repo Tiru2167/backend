@@ -3,7 +3,7 @@ name: Deploy node application
 on:
   push:
     branches:
-      - mern-ec2-docker
+      - master
 
 
 jobs:
